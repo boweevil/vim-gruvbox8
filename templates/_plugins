@@ -27,6 +27,10 @@ CocWarningFloat                  orange none
 CocInfoFloat                     yellow none
 CocHintFloat                     blue   none
 
+CocInlayHint                  -> NonText
+CocInlayHintType              -> NonText
+CocInlayHintParameter         -> NonText
+
 ; }}}
 ; CtrlP {{{
 CtrlPMatch                       yellow none
